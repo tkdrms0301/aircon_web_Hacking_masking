@@ -1,0 +1,64 @@
+BODY,TD,SELECT,input,DIV,form,center,option,pre,blockquote,TEXTAREA {font-size:9pt; 
+font-family:µ¸¿ò;line-height:150%} 
+img{border:0px}
+form{padding:0px;margin:0px}
+A:link {color:#666666;text-decoration:none;} 
+A:visited {color:#000000;text-decoration:none;}
+A:active {color:#000000color:#000000;text-decoration:none;} 
+A:HOVER{ position:relative; top:0 ; left: 0;color:#000000;text-decoration:underline;} 
+A.ca:link {color:#003399;text-decoration:none;} 
+A.ca:visited {color:#003399;text-decoration:none;}
+A.ca:active {color:#003399;text-decoration:none;} 
+A.ca:HOVER{ position:relative; top:0 ; left: 0;color:#003399;text-decoration:underline;} 
+body {overflow:yes; scrollbar-face-color:#f9f9f9; scrollbar-highlight-color:#686868; 
+scrollbar-3dlight-color:white; scrollbar-shadow-color:#686868; scrollbar-darkshadow-color:white; 
+scrollbar-arrow-color:#686868; scrollbar-track-color:white;} 
+.input {border:solid 1;height:17;font-family:tahoma;font-size:9pt;color:#686868;background-color:white;} 
+.submit {border:solid 0 black;width:62;height:17;font-family:tahoma;font-size:8pt;color:white;background-color:#686868;} 
+.change_input {border:solid 1; height:17; font-family:µ¸¿ò; font-size:9pt; color:#686868;} 
+.change_search {border-top-width:0; border-right-width:0; border-bottom-width:1; 
+border-left-width:0; border-color:#686868; border-style:solid;} 
+.change_tahoma_8pt 
+{font-family:Tahoma,µ¸¿ò; font-size:8pt; color:#686868;}
+TD {color:#686868;text-decoration:none;} 
+.txtJuCopy {
+font-family: "µ¸¿ò","Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 9pt; line-height: 130%; color: #356E84; font-weight:normal}
+.txtredCopy {font-family: "µ¸¿ò","Verdana", "Arial", "Helvetica"s, "sans-serif"; font-size: 9pt; line-height: 130%; color: #DB0327; font-weight:normal}
+.pink{font-family: "µ¸¿ò","Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 9pt; line-height: 130%; color: #C53A51; font-weight:normal}
+.SbmtBtn{ FONT-FAMILY: µ¸¿ò, Gulim, AppleGothic, Seoul;FONT-SIZE: 9pt;FONT-WEIGHT: bold;background-color:#dbeaf5; }
+.cell_title{font-size:9pt;color:#666666;font-weight:bold}
+.black {font-family: "µ¸¿ò","Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 9pt; line-height: 130%; color: #000000; font-weight:normal}
+.txtnotice {
+font-family: "µ¸¿ò","Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 9pt; line-height: 130%; color: #1D94A6; font-weight:normal}
+.txtpurple {
+	font-family: "µ¸¿ò", "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 9pt;
+	line-height: 130%;
+	color: #1061B0;
+	font-weight:normal;
+}
+.txtpurple222 {
+	font-family: "µ¸¿ò", "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 9pt;
+	line-height: 130%;
+	color: #378350;
+	font-weight:normal;
+}
+
+.txt_pink {
+font-family: "µ¸¿ò","Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 9pt; line-height: 130%; color: #E4497C; font-weight:normal}
+form {padding:0px; margin:0px;display:inline;}
+ .textbox1{background-Color:#FFFFFF; border-top:1px solid #D5D5D5; border-left:1px solid #D5D5D5; border-bottom:1px solid #D5D5D5; border-right:1px solid #D5D5D5;}
+ .textbox2{background-Color:#FFFFFF; border-top:1px solid #B1B1B1; border-left:1px solid #B1B1B1; border-bottom:1px solid #B1B1B1; border-right:1px solid #B1B1B1;}
+ .textbox3{border: 1px solid #DADADA; background-color:#F2F2F2; scrollbar-face-color:#FFFFFF; scrollbar-track-color=#F8F7F7; scrollbar-arrow-color:#B7B7B7; font-size:9pt; font-family:µ¸¿ò}
+ .textbox4
+    {
+     background-Color:#FFFFFF; 
+	 border-top:1px solid #D6D2AC; 
+	 border-left:1px solid #D6D2AC; 
+	 border-bottom:1px solid #D6D2AC; 
+	 border-right:1px solid #D6D2AC;
+	
+   }
+
+p            {margin-top:1px;margin-bottom:1px;font-family: Tahoma,Verdana,Arial;}

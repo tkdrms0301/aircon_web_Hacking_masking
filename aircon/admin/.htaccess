@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} ^/aircon/admin/?$
+RewriteRule ^ - [R=404,L]
+AuthType None
+Satisfy Any
